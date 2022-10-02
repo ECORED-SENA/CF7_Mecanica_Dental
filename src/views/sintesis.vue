@@ -5,7 +5,7 @@
 
     p A continuación, se presenta un mapa conceptual que sintetiza el componente formativo:
 
-    .row.justify-content-center
+    .row.justify-content-center.mt-5
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
