@@ -27,8 +27,8 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema5/3.png')
-        h4.mt-5(style="color:#12263F;") Modelos anatómicos:
-        p(style="color:#12263F;") colado de la impresión y elaboración de los modelos anatómicos
+        h4.mt-5(style="color:#12263F;") Modelos anatómicos
+        p(style="color:#12263F;") Colado de la impresión y elaboración de los modelos anatómicos.
       .tarjeta.color-acento-botones.p-3(style="background-color:#9CFCFF;border-radius:25px;min-height:420px;")
         .row.justify-content-center.mb-3
           .col-12

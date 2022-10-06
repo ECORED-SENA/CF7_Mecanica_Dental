@@ -21,56 +21,56 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 1: Fabricación de la cubeta personalizada y el borde de mordida
+            h4 Fase 1: fabricación de la cubeta personalizada y el borde de mordida
             p.mt-4 El laboratorio fabricará una cubeta de impresión personalizada y bordes de mordida de cera. Los bordes de mordida deben estar contorneados para proporcionar el soporte labial correcto e indicar las futuras posiciones del borde incisal, la placa oclusal, la dimensión vertical y la línea media
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/2.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 2: Articular los modelos
+            h4 Fase 2: articular los modelos
             p.mt-4 Montar los modelos maestros creados a partir de la impresión de cubeta personalizada y las medidas del borde de mordida utilizando un articulador para representar la relación mandibular del paciente.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/3.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 3: Articulador
+            h4 Fase 3: articulador
             p.mt-4 Se deben utilizar los registros de la boca del paciente para estimular ambas arcadas en un dispositivo denominado “articulador”, este dispositivo  permite estimular las medidas exactas de la boca del paciente enviadas por el odontólogo para poder proceder en el proceso.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/4.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 4: Configuración de los dientes
+            h4 Fase 4: configuración de los dientes
             p.mt-4 Se está haciendo un "borde de cera" en el modelo  que permite al técnico comenzar a configurar los dientes artificiales en la dentadura; la cera es una excelente opción aquí porque le permite al técnico editar su trabajo si algo salió mal durante la colocación de los dientes. Se colocan  los dientes en el esquema oclusal deseado. Se deben asegurar la forma y función adecuadas.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/5.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 5: Encerar
+            h4 Fase 5: encerar
             p.mt-4 Una vez que todos los dientes están colocados correctamente, el técnico agrega cera adicional alrededor de los dientes, construyendo gradualmente los contornos gingivales correctos. Se agrega suficiente cera para sostener adecuadamente los músculos faciales y crear una apariencia natural. La cera se puede puntear ligeramente para que, cuando la dentadura esté terminada, las encías acrílicas no luzcan anormalmente suaves.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/6.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 6: Mufla
+            h4 Fase 6: mufla
             p.mt-4 El primer paso es enmuflar la dentadura colocando el modelo con la dentadura en la mufla inferior, fijándola con yeso. Cuando el yeso se seca, el matraz superior se coloca en su lugar y se llena con más yeso. Luego, se calienta el matraz hasta que la cera se derrita lo suficiente. Posteriormente, se abre la mufla, se enjuaga completamente la cera, dejando los dientes y el molde de la dentadura para rellenar con acrílico.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/7.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 7: Acabado y pulido
+            h4 Fase 7: acabado y pulido
             p.mt-4 Cada dentadura postiza se termina a mano con fresas especiales, para eliminar cualquier exceso de acrílico alrededor de los bordes y el área del paladar. La articulación se comprueba y ajusta si es necesario. Finalmente, la dentadura se pule y alisa con trapeadores y pasta para pulir, para crear un brillo de aspecto natural.
           .col-md-6
             figure
               img(src="@/assets/curso/tema2/8.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 8: Prueba
+            h4 Fase 8: prueba
             p.mt-4 Ahora, la dentadura encerada se devuelve al dentista para probarla en la boca del paciente y asegurarse de que todo se hizo correctamente.
             p.mt-4 En esta fase, se verifican, entre otras cosas, los registros y las medidas, el aspecto estético, la función y el nivel de comodidad.
           .col-md-6

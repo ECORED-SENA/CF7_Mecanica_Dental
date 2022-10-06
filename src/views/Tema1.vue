@@ -23,7 +23,7 @@
       .col-md-8
         p(data-aos="fade-up") Durante su infancia y a partir de los seis meses aproximadamente, inicia la erupción de los primeros dientes, y a esta etapa se le llama  dentición temporal. La formación de la anatomía de la boca tiene lugar en las primeras etapas del desarrollo fetal. La boca es importante no solo en el habla y como receptáculo de alimentos, sino que también juega un papel importante en el sistema digestivo. 
         p.mt-4(data-aos="fade-up") Cuando se es adulto, generalmente, se encuentra al ser humano con todos sus dientes en boca, a estos se les llama dentición permanente. Es de aclarar que, entre la infancia y la adolescencia, se presentan ambas denticiones, lo que se llama dentición mixta.
-        p.mt-4(data-aos="fade-up") Hay muchos factores que se deben tener en cuenta al observar la morfología del diente; cada diente tiene su propio "diseño". Es necesario visualizar la morfología de cada diente para lograr crear una excelente prótesis. 
+        p.mt-4(data-aos="fade-up") Hay muchos factores que se deben tener en cuenta al observar la morfología del diente; cada diente tiene su propio #[strong "diseño"]. Es necesario visualizar la morfología de cada diente para lograr crear una excelente prótesis. 
         p.mt-4(data-aos="fade-up") El análisis de estética de los dientes maxilares debe ser visto como un todo para realizar prótesis dentales, desde un análisis dentolabial hasta un análisis fonético. Es por ello que cada diente del maxilar tiene características específicas, las cuales se presentan a continuación:
 
     .tarjeta.tarjeta--azul.mt-5(style="background-color:#D6F8F9;")

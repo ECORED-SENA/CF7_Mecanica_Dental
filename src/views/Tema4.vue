@@ -120,7 +120,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/12.svg')})`}")
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#9CFCFF")
               h4.mt-5(style="color:#12263F;") Sobredentadura terminada: a) vista vestibular; b) vista de la cara interna
-              p.mt-4.text-center.mb-5(style="color:#12263F;") Superposición de modelos virtuales y diseño definitivo de la sobredentadura, para calcular el espacio disponible para el diseño de la subestructura y la mesoestructura.
+              p.mt-4.text-center.mb-5(style="color:#12263F;") El acrilizado de la mesoestructura (los dientes y encía rosa) se realiza con composite estratificado y posicionamiento de las hembras de teflón en sus alojamientos.
       .col-md-6.col-lg-4.mb-4.mb-md-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
@@ -133,7 +133,7 @@
     figcaption.mt-3(style="font-weight:500;") #[strong Nota.] Imagen tomada de Salido, M., Gross, E., Martínez, F. Barrendero, S. y Pradies, G. (2020). Protocolo Digital Protesis sobre Implantes. Periodoncia Clínica. #[br] www.researchgate.net/publication/347486449_Protocolo_Digital_Protesis_sobre_Implantes_Periodoncia_Clinica
 
     br
-    h3.mt-5(data-aos="fade-up" style="padding:7px;border-left:20px #0273BC solid;") Protocolo digital para la confección de una sobredentadura implanto-soportada
+    h3.mt-5(data-aos="fade-up" style="padding:7px;border-left:20px #0273BC solid;") Protocolo digital para la confección de una sobredentadura implanto-retenida
 
     .row.mt-5
       .col-md-8.mb-4.mb-md-0(style="place-self:center")
@@ -175,7 +175,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/19.png')})`}")
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#FFF18E")
-              p.mt-5.text-center.mb-5(style="color:#12263F;") ISecuencia de diseño CAD de las maquetas protésicas: a) posicionamiento de dientes sobre rodillos; b) dientes sobre los modelos definitivos; c) dientes y bases; d) prótesis enceradas; e) ajuste de oclusión con articulador virtual del programa; f) prototipados impresos.
+              p.mt-5.text-center.mb-5(style="color:#12263F;") Secuencia de diseño CAD de las maquetas protésicas: a) posicionamiento de dientes sobre rodillos; b) dientes sobre los modelos definitivos; c) dientes y bases; d) prótesis enceradas; e) ajuste de oclusión con articulador virtual del programa; f) prototipados impresos.
       .col-md-6.col-lg-6.mb-4.mb-md-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
