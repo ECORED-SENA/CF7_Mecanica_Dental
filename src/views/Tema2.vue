@@ -78,7 +78,7 @@
               img(src="@/assets/curso/tema2/9.png")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 9:Procesamiento de la dentadura
+            h4 Fase 9: procesamiento de la dentadura
             p.mt-4 La dentadura encerada se devuelve nuevamente al laboratorio para que el técnico la procese, es decir:
             p.mt-4 En esta fase, se verifican, entre otras cosas, los registros y las medidas, el aspecto estético, la función y el nivel de comodidad.
             ul.lista-ul.mt-4
