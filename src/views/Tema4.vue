@@ -21,7 +21,7 @@
     p.mt-4(data-aos="fade-up") Para la rehabilitación de un paciente totalmente edéntulo con implantes, se pueden utilizar prótesis fijas o removibles.
 
     .row.mt-5
-      .col-lg-6.mb-4.mb-md-0
+      .col-lg-6.mb-4.mb-lg-0
         .p-5.pb-4(style="border-radius:20px;height:100%;background: rgb(2,115,188);background: linear-gradient(360deg, rgba(2,115,188,1) 25%, rgba(236,248,255,1) 25%);")
           p.mb-0(data-aos="fade-up") No pueden ser retiradas de la boca por el paciente, aunque sí por el profesional, y toda la biomecánica (retención, soporte y estabilidad) es asumida por los implantes, no teniendo la mucosa ningún tipo de responsabilidad.
           .row.mt-5
@@ -30,7 +30,7 @@
             .col-auto(style="place-self:start")
               figure
                 img(src="@/assets/curso/tema4/2.png" data-aos="zoom-in-up")
-      .col-lg-6.mb-4.mb-md-0
+      .col-lg-6.mb-4.mb-lg-0
         .p-5.pb-4(style="border-radius:20px;height:100%;background: rgb(255,224,0);background: linear-gradient(360deg, rgba(255,224,0,1) 25%, rgba(255,249,207,1) 25%);")
           p.mb-0(data-aos="fade-up") Conocidas como sobredentaduras, son prótesis completas en las que se describen dos tipos en función de la responsabilidad que asumen los implantes y la mucosa: sobredentaduras implanto-retenidas e implantosoportadas, que se profundizaron en el componente: Análisis de la prótesis total.
           .row.mt-5
@@ -52,7 +52,7 @@
       span(style="background-color:#0273BC;padding:.5rem 4rem;color:white;font-size:18px;font-weight:bold;border-radius:50px;") Galería
 
     .row.mt-5
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/5.svg')})`}")
@@ -60,7 +60,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Diseño de la férula de verificación de pasividad, para comprobar la fiabilidad del modelo digital.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -69,7 +69,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Diseño de la prótesis definitiva, para realizar la prueba en boca.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/7.svg')})`}")
@@ -79,14 +79,14 @@
               p.mt-5.text-center.mb-5(style="color:#12263F;") Férula de verificación de aluminio atornillada sobre los implantes. Vista frontal intraoral.
 
     .row.mt-5.mb-md-0
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/8.svg')})`}")
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#9CFCFF")
               p.mt-5.text-center(style="color:#12263F;") La prótesis prototipada, donde se estudia el correcto soporte labial, posición de bordes incisales, tamaño de dientes, líneas medias, dentales y faciales, dimensión vertical y oclusión, tanto estática como dinámica.
               h4.text-center.mt-4(style="color:#12263F;") Prueba del diseño de prótesis: a) vista frontal en oclusión; b) vista oclusal.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -95,7 +95,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Superposición de modelos virtuales y diseño definitivo de la sobredentadura, para calcular el espacio disponible para el diseño de la subestructura y la mesoestructura.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/10.svg')})`}")
@@ -105,7 +105,7 @@
               p.mt-5.text-center.mb-5(style="color:#12263F;") Diseño de la barra de soporte.
 
     .row.mt-5.mb-md-0
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/11.svg')})`}")
@@ -113,7 +113,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center(style="color:#12263F;") Diseño mesoestructura: a) vista vestibular, donde observamos los elementos de retención para los dientes y encía de la sobredentadura; b) vista gingival con los alojamientos para las hembras de los “ataches”.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -121,7 +121,7 @@
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#9CFCFF")
               h4.mt-5(style="color:#12263F;") Sobredentadura terminada: a) vista vestibular; b) vista de la cara interna
               p.mt-4.text-center.mb-5(style="color:#12263F;") El acrilizado de la mesoestructura (los dientes y encía rosa) se realiza con composite estratificado y posicionamiento de las hembras de teflón en sus alojamientos.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/13.svg')})`}")
@@ -143,7 +143,7 @@
           img(src="@/assets/curso/tema4/15.png" data-aos="fade-left")
 
     .row.mt-5
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-mlgd-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/16.png')})`}")
@@ -151,7 +151,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Impresiones definitivas convencionales con elastómeros mediante las cubetas individuales prototipadas.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -160,7 +160,7 @@
               figure.text-center.mt-5
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Digitalización de los modelos.
-      .col-md-6.col-lg-4.mb-4.mb-md-0
+      .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/18.png')})`}")
@@ -170,13 +170,13 @@
               p.mt-5.text-center.mb-5(style="color:#12263F;") Modelos definitivos de trabajo virtuales: a) modelo superior; b) modelo inferior; c) planchas base y rodillos; d) modelos de trabajo alineados, para comenzar el diseño CAD de las prótesis en el módulo.
 
     .row.mt-5.col-lg-8.m-auto
-      .col-md-6.col-lg-6.mb-4.mb-md-0
+      .col-lg-6.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/19.png')})`}")
             .tarjeta-flip__contenido.p-5.p-xl-5(style="background-color:#FFF18E")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Secuencia de diseño CAD de las maquetas protésicas: a) posicionamiento de dientes sobre rodillos; b) dientes sobre los modelos definitivos; c) dientes y bases; d) prótesis enceradas; e) ajuste de oclusión con articulador virtual del programa; f) prototipados impresos.
-      .col-md-6.col-lg-6.mb-4.mb-md-0
+      .col-lg-6.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/20.png')})`}")

@@ -27,7 +27,7 @@
         p.mt-4(data-aos="fade-up") El análisis de estética de los dientes maxilares debe ser visto como un todo para realizar prótesis dentales, desde un análisis dentolabial hasta un análisis fonético. Es por ello que cada diente del maxilar tiene características específicas, las cuales se presentan a continuación:
 
     .tarjeta.tarjeta--azul.mt-5(style="background-color:#D6F8F9;")
-      SlyderA(tipo="b")
+      SlyderA.slyder_1_1(tipo="b")
         .row
           figure
             img(src='@/assets/curso/tema1/3.svg')
@@ -53,7 +53,7 @@
     p.mt-5(data-aos="fade-up") Los dientes pueden variar en tamaño, forma y su localización en la mandíbula. Estas diferencias permiten que los dientes trabajen juntos para ayudar a masticar, hablar y sonreír. También ayudan a dar la forma y estructura de la cara. A continuación, se presentan las características de los dientes mandibulares:
 
     .tarjeta.tarjeta--azul.mt-5(style="background-color:#E5F1F8;")
-      SlyderA(tipo="b")
+      SlyderA.slyder_1_2(tipo="b")
         .row
           figure
             img(src='@/assets/curso/tema1/10.svg')
@@ -102,6 +102,16 @@ export default {
 <style lang="sass">
 .cajon.color-primario:before
   background-color: #13C6CC
-.slyder-a__tipo-b
-  padding: 2rem
+.slyder_1_1 .slyder-a__bullets__item
+  background-color: #92E6E9 !important
+.slyder_1_1 .slyder-a__bullets__item--active
+  background-color: #13C6CC !important
+  border-color: #13C6CC !important
+.slyder_1_2 .slyder-a__bullets__item
+  background-color: #96C5E3 !important
+.slyder_1_2 .slyder-a__bullets__item--active
+  background-color: #0273BC !important
+  border-color: #0273BC !important
+.slyder_1_1.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  padding: 1rem 1.5rem
 </style>

@@ -25,7 +25,7 @@
             li(data-aos="fade-up")
               p #[i.fas.fa-circle(style="color:#0273BC;")] #[strong El colado de la estructura del dispositivo médico sobre medida bucal:]&nbsp; imperfecciones, rugosidades, falta de sellado, fracturas. 
             li(data-aos="fade-up")
-              p #[i.fas.fa-circle(style="color:#0273BC;")] #[strong El ajuste oclusal:]&nbsp;  inadecuada relación de la oclusión en las dos arcadas en el articulador.
+              p.mb-0 #[i.fas.fa-circle(style="color:#0273BC;")] #[strong El ajuste oclusal:]&nbsp;  inadecuada relación de la oclusión en las dos arcadas en el articulador.
       .col-md-5(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema7/2.png" data-aos="fade-left")
