@@ -29,7 +29,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/le1IebIKc4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mt-5(data-aos="fade-up") Por otra parte, el CAD (Diseño Asistido por Ordenador) – CAM (Fabricación Asistida por Ordenador) es un sistema innovador, a través del cual se pueden diseñar y fabricar por ordenador las piezas dentales que se colocarán en la boca del paciente, gracias a un sofisticado programa informático. En la siguiente infografía, se profundiza sobre esta tecnología:
 
