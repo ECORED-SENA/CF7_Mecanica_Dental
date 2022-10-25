@@ -236,23 +236,23 @@ export default {
       },
       {
         nombre: 'Daniel L. Toro A',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Paola Alexandra Moya Peralta',
-        cargo: 'Diseñadora Instruccional ',
+        cargo: 'Diseñadora instruccional ',
         centro:
           'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
       },
       {
         nombre: 'Álix Cecilia Chinchilla Rueda',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Darío González',
-        cargo: 'Corrector de Estilo',
+        cargo: 'Corrector de estilo',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
