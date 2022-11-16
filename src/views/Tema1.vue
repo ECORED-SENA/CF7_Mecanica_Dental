@@ -30,25 +30,32 @@
       SlyderA.slyder_1_1(tipo="b")
         .row
           figure
-            img(src='@/assets/curso/tema1/3.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/3.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/17.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/4.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/4.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/18.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/5.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/5.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/19.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/6.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/6.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/20.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/7.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/7.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/21.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/8.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/8.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/22.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/9.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/9.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/23.svg')
 
     p.mt-5(data-aos="fade-up") Los dientes pueden variar en tamaño, forma y su localización en la mandíbula. Estas diferencias permiten que los dientes trabajen juntos para ayudar a masticar, hablar y sonreír. También ayudan a dar la forma y estructura de la cara. A continuación, se presentan las características de los dientes mandibulares:
 
@@ -56,25 +63,32 @@
       SlyderA.slyder_1_2(tipo="b")
         .row
           figure
-            img(src='@/assets/curso/tema1/10.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/10.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/24.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/11.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/11.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/25.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/12.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/12.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/26.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/13.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/13.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/27.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/14.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/14.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/28.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/15.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/15.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/29.svg')
         .row
           figure
-            img(src='@/assets/curso/tema1/16.svg')
+            img.d-none.d-md-block(src='@/assets/curso/tema1/16.svg')
+            img.d-block.d-md-none(src='@/assets/curso/tema1/30.svg')
 
 
 
