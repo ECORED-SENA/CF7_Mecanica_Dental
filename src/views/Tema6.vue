@@ -18,7 +18,7 @@
 
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/maXNNDyV0Eg" title="Introducción al proceso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mt-5(data-aos="fade-up") Por otro lado, #[strong la prótesis sobre implantes] se trata de las prótesis dentales de arcada completa que se fijan atornilladas o cementadas sobre seis u ocho implantes osteointegrados. En el siguiente video, se presenta el procedimiento de fabricación:
 
