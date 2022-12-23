@@ -144,7 +144,7 @@ export default {
     {
       referencia:
         'Riojas, M. (2014). Anatomía dental. Editorial El Manual Moderno.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39706 ',
+      link: 'https://www.academia.edu/44046154/Anatom%C3%ADa_Dental_Riojas_Garza_Segunda_edici%C3%B3n_Manual_Moderno_',
     },
     {
       referencia:
