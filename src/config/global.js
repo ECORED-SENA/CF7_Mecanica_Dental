@@ -138,7 +138,8 @@ export default {
     {
       referencia:
         'Navas, E. (2018). Prevención de riesgos laborales, sector sanitario: riesgos específicos del trabajo de protésicos dentales. Editorial ICB.',
-      link: 'https://elibro.net/es/lc/senavirtual/titulos/111411 ',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/111411',
     },
     {
       referencia:

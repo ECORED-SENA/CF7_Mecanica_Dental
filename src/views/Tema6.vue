@@ -9,7 +9,7 @@
 
     .row
       .col-md-7.mb-4.mb-md-0(style="place-self:center;")
-        p(data-aos="fade-up") Es fundamental que el técnico dental interprete y realice  adecuadamente, sobre el modelo de trabajo, la información plasmada en la prescripción clínica hecha por el profesional odontólogo; para ello, deberá identificar apEs fundamental que el técnico dental interprete y realice  adecuadamente, sobre el modelo de trabajo, la información plasmada en la prescripción clínica hecha por el profesional odontólogo; para ello, deberá identificar apropiadamente las superficies protésicas del modelo sobre el cual realizará el dispositivo intraoral solicitado.
+        p(data-aos="fade-up") Es fundamental que el técnico dental interprete y realice  adecuadamente, sobre el modelo de trabajo, la información plasmada en la prescripción clínica hecha por el profesional odontólogo; para ello, deberá identificar. Es fundamental que el técnico dental interprete y realice  adecuadamente, sobre el modelo de trabajo, la información plasmada en la prescripción clínica hecha por el profesional odontólogo; para ello, deberá identificar apropiadamente las superficies protésicas del modelo sobre el cual realizará el dispositivo intraoral solicitado.
         .cajon.color-primario.p-5.mt-5(style="background-color:#C3F1F2;")
           p.mb-0(data-aos="fade-up") Aparato protésico removible que reemplaza artificialmente la totalidad de los dientes en un paciente edéntulo completo de uno o ambos arcos dentales. En el siguiente video, se presenta el procedimiento de fabricación:
       .col-md-5(style="place-self:center;")

@@ -130,7 +130,7 @@
                 img(src="@/assets/curso/tema4/14.svg" style="display:inline;max-width:80px;")
               p.mt-5.text-center.mb-5(style="color:#12263F;") Sobredentadura superior terminada. Vista frontal en oclusión.
 
-    figcaption.mt-3(style="font-weight:500;") #[strong Nota.] Imagen tomada de Salido, M., Gross, E., Martínez, F. Barrendero, S. y Pradies, G. (2020). Protocolo Digital Protesis sobre Implantes. Periodoncia Clínica. #[br] www.researchgate.net/publication/347486449_Protocolo_Digital_Protesis_sobre_Implantes_Periodoncia_Clinica
+    figcaption.mt-3(style="font-weight:500;word-break:break-all;") #[strong Nota.] Imagen tomada de Salido, M., Gross, E., Martínez, F. Barrendero, S. y Pradies, G. (2020). Protocolo Digital Protesis sobre Implantes. Periodoncia Clínica. #[br] www.researchgate.net/publication/347486449_Protocolo_Digital_Protesis_sobre_Implantes_Periodoncia_Clinica
 
     br
     h3.mt-5(data-aos="fade-up" style="padding:7px;border-left:20px #0273BC solid;") Protocolo digital para la confección de una sobredentadura implanto-retenida
