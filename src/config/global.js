@@ -105,11 +105,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      //{
+      //  icono: 'fas fa-download',
+      //  titulo: 'Descargar material',
+      //  download: 'downloads/material.zip',
+      //},
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -144,7 +144,7 @@ export default {
     {
       referencia:
         'Riojas, M. (2014). Anatomía dental. Editorial El Manual Moderno.',
-      link: 'https://www.academia.edu/44046154/Anatom%C3%ADa_Dental_Riojas_Garza_Segunda_edici%C3%B3n_Manual_Moderno_',
+      link: 'https://www.academia.edu/36436803/Anatomia_Dental_Riojas_Garza_pdf',
     },
     {
       referencia:

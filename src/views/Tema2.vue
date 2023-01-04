@@ -70,7 +70,7 @@
               img(src="@/assets/curso/tema2/8.png")
         .row.p-4
           .col-md-6.mb-4.mb-md-0
-            h4 Fase 8: prueba
+            h4 Fase 8: Prueba
             p.mt-4 Ahora, la dentadura encerada se devuelve al dentista para probarla en la boca del paciente y asegurarse de que todo se hizo correctamente.
             p.mt-4 En esta fase, se verifican, entre otras cosas, los registros y las medidas, el aspecto estético, la función y el nivel de comodidad.
           .col-md-6
